@@ -1,4 +1,5 @@
 from icecream import ic
 
-message = "Hello, world!"
-ic(message)
+if __name__ == "__main__":
+    message = "Hello, world!"
+    ic(message)
